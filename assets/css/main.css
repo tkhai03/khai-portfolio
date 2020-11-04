@@ -2538,7 +2538,8 @@ input, select, textarea {
 			-ms-justify-content: center;
 			justify-content: center;
 			width: 100%;
-			margin-left: 0;
+			margin-left: -50px;
+			font-size: 15px;
 		}
 
 			ul.actions.special li:first-child {
